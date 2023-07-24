@@ -1,5 +1,5 @@
 {
-  "name": "docusaurus-plugin-image-zoom",
+  "name": "zmp-plugin-image-zoom",
   "version": "1.0.1",
   "private": false,
   "description": "Docusaurus plugin to utilize https://www.npmjs.com/package/medium-zoom in your projects easily!",
@@ -20,7 +20,7 @@
     "test": "echo 'none for now'"
   },
   "dependencies": {
-    "medium-zoom": "^1.0.6",
+    "zmp-medium-zoom": "1.0.8",
     "validate-peer-dependencies": "^2.2.0"
   },
   "devDependencies": {

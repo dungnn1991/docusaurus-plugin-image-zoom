@@ -1,5 +1,5 @@
 import siteConfig from '@generated/docusaurus.config';
-import mediumZoom, { Zoom, ZoomOptions, ZoomSelector } from 'medium-zoom';
+import mediumZoom, { Zoom, ZoomOptions, ZoomSelector } from 'zmp-medium-zoom';
 
 const { themeConfig } = siteConfig;
 
